@@ -1,0 +1,15 @@
+To convert LF (Unix) line endings to CRLF (Windows) in Notepad++, follow these steps:
+
+Method 1: Using the Menu (Recommended)
+Open your file in Notepad++
+Show line endings (optional but helpful):
+Click View → Show Symbol → Show End of Line
+You'll see CRLF, LF, or CR indicators
+Convert all line endings at once:
+Click Edit → EOL Conversion
+Select Windows (CR LF)
+
+Method 2: Status Bar Quick Conversion
+Look at the bottom status bar of Notepad++
+Click on the current line ending indicator (e.g., "Unix (LF)")
+Select Windows (CR LF) from the popup menu
