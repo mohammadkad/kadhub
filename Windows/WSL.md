@@ -5,6 +5,8 @@
 - dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 - Enable Virtual Machine feature
 - dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+- Download the Linux kernel update package
+- Set WSL 2 as your default version: wsl --set-default-version 2
 - wsl.exe --install or wsl.exe --update
 
 ### Fix errors:
