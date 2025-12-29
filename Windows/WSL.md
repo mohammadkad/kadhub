@@ -6,3 +6,10 @@
 - dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 - wsl.exe --install or wsl.exe --update
 
+- Fix errors:
+- In the search bar, search for turn windows features on or off.
+- Make sure these three options are checked:
+  - windows subsystem for linux
+  - virtual machine platform
+  - windows hypervisor platform
+
