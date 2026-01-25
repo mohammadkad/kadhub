@@ -1,2 +1,3 @@
 <!-- 1404-11-05 -->
-- Connection Points : Ctrl + Click to add point
+- Add Connection Points : Ctrl + Click to add point
+- Delete Point : Delete
