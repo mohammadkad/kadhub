@@ -1,3 +1,5 @@
 <!-- 1404-11-05 -->
 - Add Connection Points : Ctrl + Click to add point
 - Delete Point : Delete
+
+- Fix shape : Developer > Protect > X, Y position
