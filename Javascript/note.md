@@ -9,3 +9,9 @@
 - npx (Node Package Executor)
   - A tool that runs Node packages without permanently installing them.
   - Downloads and runs it on the fly, then discards it (unless you tell it to cache)
+ 
+### Files:
+- .mjs file
+  - .mjs stands for "Module JavaScript" — it's a file extension that tells Node.js to treat the file as an ES Module
+- .js files
+  - CommonJS
