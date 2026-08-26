@@ -13,5 +13,5 @@
 ### Files:
 - .mjs file
   - .mjs stands for "Module JavaScript" — it's a file extension that tells Node.js to treat the file as an ES Module
-- .js files
+- .js and .cjs files
   - CommonJS
