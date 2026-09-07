@@ -18,3 +18,6 @@
  
 ### Database, D1:
 - npx wrangler d1 create my-database # Create serverless SQLite databases
+
+### Tips:
+- JSONC = JSON with Comments
