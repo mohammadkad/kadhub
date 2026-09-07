@@ -9,4 +9,4 @@
   - OR : npx wrangler deploy # Publish online <!-- URL > https://my-worker.mkq-saba.workers.dev -->
  
 ### Database, D1:
-- npx wrangler d1 create my-database
+- npx wrangler d1 create my-database # Create serverless SQLite databases
