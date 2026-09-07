@@ -1,3 +1,11 @@
+###  C3 (create-cloudflare-cli)
+### https://developers.cloudflare.com/workers/get-started/guide/
+- npm create cloudflare@latest -- my-first-worker
+- cd my-first-worker
+- npx wrangler dev
+- npx wrangler deploy
+- <YOUR_WORKER>.<YOUR_SUBDOMAIN>.workers.dev
+
 <!-- 1405-06-15 -->
 - npm i wrangler
 - npx wrangler --version
