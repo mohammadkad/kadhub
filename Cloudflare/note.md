@@ -3,4 +3,4 @@
 - npx wrangler init my-worker -y # Hello World worker
 - cd my-worker
 - npm run dev
-- npx wrangler deploy # Publish online
+- npx wrangler deploy # Publish online <!-- URL > https://my-worker.mkq-saba.workers.dev -->
