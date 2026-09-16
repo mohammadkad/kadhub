@@ -7,4 +7,6 @@
 - next-ai-draw-io:
   - https://github.com/DayuanJiang/next-ai-draw-io
   - https://next-ai-drawio.jiang.jp
- 
+
+ - EdrawMax: <!-- 1405-06-25 -->
+   - https://www.edrawmax.com/online/en/
