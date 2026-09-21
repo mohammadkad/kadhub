@@ -1,0 +1,17 @@
+# 1404-08-25
+# Mohammad Kadkhodaei
+
+# --- ChatGPT:
+1- LaTeX code box containing all major formulas from the paper
+
+# --- MS Word
+1- Place your cursor where you want the equation in your Word document.
+2- Open the Equation Editor: Press Alt + = (equals sign) on your keyboard. Or go to the Insert tab and click on Equation (usually represented by the π symbol).
+3- Paste or type the equation. 
+4- Use professional for display
+
+
+Sample:
+\frac{1}{\sqrt x}
+\left(\frac{1}{\sqrt{x}}\right)
+E_n^{\mathrm{off}}=\sum_{k\in K}{p_n^kT_n^{\mathrm{off}}}
