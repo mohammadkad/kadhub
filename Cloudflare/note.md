@@ -22,6 +22,7 @@
 ### Tips:
 - JSONC = JSON with Comments
 
+### python packaging: https://developers.cloudflare.com/workers/languages/python/packages/
 ## Python + FastAPI: <!-- 1405-06-31 -->
 ### 1. Install uv (if you don't have it yet)
 curl -LsSf https://astral.sh/uv/install.sh | sh
