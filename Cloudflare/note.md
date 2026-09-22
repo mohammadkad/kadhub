@@ -36,5 +36,8 @@ uv run pywrangler login
 ### 4. (Optional) run it locally first at http://localhost:8787
 uv run pywrangler dev
 
+### 5. Audit the bundle locally before deploying
+uv run pywrangler deploy --dry-run --outdir dist
+
 ### 5. Deploy to Cloudflare's edge
 uv run pywrangler deploy
