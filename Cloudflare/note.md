@@ -21,3 +21,20 @@
 
 ### Tips:
 - JSONC = JSON with Comments
+
+### Python + FastAPI: <!-- 1405-06-31 -->
+# 1. Install uv (if you don't have it yet)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# 2. Install project dependencies (fastapi, workers-py, workers-runtime-sdk)
+cd my-worker
+uv sync
+
+# 3. Authenticate with Cloudflare (opens a browser window)
+uv run pywrangler login
+
+# 4. (Optional) run it locally first at http://localhost:8787
+uv run pywrangler dev
+
+# 5. Deploy to Cloudflare's edge
+uv run pywrangler deploy
