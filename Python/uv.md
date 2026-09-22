@@ -12,6 +12,9 @@ PS> powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 
 ### Self update
 - uv self update
 
+### Tools:
+- uv tool install TOOL_NAME
+
 ### uv-managed project
 - uv init YOUR_PROJECT_NAME
 - cd YOUR_PROJECT_NAME
