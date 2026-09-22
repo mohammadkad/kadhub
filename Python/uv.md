@@ -18,3 +18,5 @@ PS> powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 
 
 ### Add dependencies 
 - uv add NAME
+- uv sync
+- uv run FILE.PY
