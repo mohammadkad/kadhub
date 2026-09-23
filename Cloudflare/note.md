@@ -33,6 +33,7 @@ cd my-worker
 uv sync
 
 ### 3. Authenticate with Cloudflare (opens a browser window)
+uv run pywrangler --help
 uv run pywrangler login
 
 ### 4. (Optional) run it locally first at http://localhost:8787
