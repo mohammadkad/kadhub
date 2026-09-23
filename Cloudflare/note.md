@@ -26,8 +26,8 @@
 ### Examples: https://github.com/cloudflare/python-workers-examples
 ## Python + FastAPI: <!-- 1405-06-31 -->
 ### 1. Install uv (if you don't have it yet)
-curl -LsSf https://astral.sh/uv/install.sh | sh
-uv tool install workers-py // install globally
+- curl -LsSf https://astral.sh/uv/install.sh | sh
+- uv tool install workers-py // install globally
 
 ### 2. Install project dependencies (fastapi, workers-py, workers-runtime-sdk)
 cd my-worker
