@@ -1,5 +1,7 @@
 # 1405-07-05
 
+# !pip install ipython
+
 from IPython.display import HTML
 
 HTML("""
