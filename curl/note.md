@@ -13,3 +13,8 @@ curl -s https://api.liquid.ai/decisions/v1/systemone \
     }
   }'
 ```
+
+
+```
+curl -X GET "https://.../api/v1/NAME?CODE=1234" -H "accept: application/json" -H "authorization: Bearer YOUR_JWT" --compressed -o response.txt
+```
